@@ -21,7 +21,7 @@ from pctx0 import (
 
 ACCESS_KEY = "227fc70d-151c-4a7f-85e2-20ef147cbcc1"
 WORKSPACE_ID = "adae803a-5b20-41c7-bd9b-304792bccabe"
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://actx0.com"
 
 OPENROUTER_KEY = os.getenv("OPENROUTER_KEY")
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
