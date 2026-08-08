@@ -1,0 +1,50 @@
+name: Bug report
+description: Report a problem with the pctx0 client
+title: "[bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for filing a bug. Do not include access keys, tokens, or other secrets.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What went wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Minimal steps or code sample
+      render: python
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: pctx0 version / commit
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Python version, OS, and any relevant details
+      placeholder: Python 3.12 / macOS
+    validations:
+      required: true
