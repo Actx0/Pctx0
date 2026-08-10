@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Chunk local docs with Actx0 defaults, then upload each chunk.
+"""Chunk a long local biography with Actx0 defaults, then upload a sample.
 
 Requires the optional chunk extra:
 
@@ -16,41 +16,43 @@ from pctx0 import (
     DEFAULT_CHUNK_SIZE,
     DEFAULT_CHUNKING_STRATEGY,
     Pctx0Client,
-    chunk_text,
+    chunk_file,
 )
 
 ACCESS_KEY = "227fc70d-151c-4a7f-85e2-20ef147cbcc1"
 WORKSPACE_ID = "adae803a-5b20-41c7-bd9b-304792bccabe"
 BASE_URL = "https://app.actx0.com"
 
-DOCS_DIR = Path(__file__).resolve().parent / "docs"
+DOC_PATH = Path(__file__).resolve().parent / "docs" / "chunking" / "mara_long_bio.txt"
 LABELS = {"tag": "chunked-docs", "team": "platform-team"}
+# Upload only a few chunks so the demo stays quick against the live API.
+UPLOAD_LIMIT = 3
 
 
 def main() -> None:
-    local_files = sorted(DOCS_DIR.glob("*.txt"))
-    if not local_files:
-        raise SystemExit(f"no .txt files in {DOCS_DIR}")
+    if not DOC_PATH.is_file():
+        raise SystemExit(f"missing document: {DOC_PATH}")
 
-    # Join the short sample files into one longer document so defaults split it.
-    document = "\n\n".join(path.read_text(encoding="utf-8") for path in local_files)
-
+    document_chars = DOC_PATH.stat().st_size
     print("chunking defaults")
     print("=" * 40)
     print(f"  strategy: {DEFAULT_CHUNKING_STRATEGY}")
     print(f"  size:     {DEFAULT_CHUNK_SIZE}")
     print(f"  overlap:  {DEFAULT_CHUNK_OVERLAP}")
-    print(f"  source:   {len(local_files)} files, {len(document)} chars")
+    print(f"  source:   {DOC_PATH.name} ({document_chars:,} bytes)")
 
-    chunks = chunk_text(document)
+    chunks = chunk_file(DOC_PATH)
     print(f"\nchunks ({len(chunks)})")
     print("=" * 40)
-    for part in chunks:
+    for part in chunks[:10]:
         preview = " ".join(part.text.split())[:80]
         print(
             f"  [{part.index:04d}] tokens={part.token_count} "
             f"span={part.start_index}:{part.end_index}  {preview}..."
         )
+
+    if len(chunks) > 10:
+        print(f"  ... {len(chunks) - 10} more chunks")
 
     client = Pctx0Client(
         access_key=ACCESS_KEY,
@@ -58,10 +60,11 @@ def main() -> None:
         base_url=BASE_URL,
     )
 
-    print("\nupload")
+    to_upload = chunks[:UPLOAD_LIMIT]
+    print(f"\nupload sample ({len(to_upload)} of {len(chunks)})")
     print("=" * 40)
     doc_ids: list[str] = []
-    for part in chunks:
+    for part in to_upload:
         filename = f"mara-bio-{part.index:04d}.txt"
         uploaded = client.document.upload(
             file=part.as_file(filename=filename),

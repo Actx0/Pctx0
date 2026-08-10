@@ -1,0 +1,845 @@
+# Mara Ellison: Long-Form Biography
+
+Intentional long sample document for pctx0 chunking demos.
+It expands the short Mara notes into continuous prose that splits cleanly
+with the default recursive strategy (size 2000, overlap 400).
+
+## Section 1: Origins
+
+Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Feedback is kind, specific, and relentless about hierarchy. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Rain changes her route, not her plan to ride. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Every product needs a graceful mode when the network fails. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+## Section 2: Neighborhoods
+
+She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Feedback is kind, specific, and relentless about hierarchy. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Rain changes her route, not her plan to ride. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Every product needs a graceful mode when the network fails. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+## Section 3: School
+
+Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Feedback is kind, specific, and relentless about hierarchy. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Rain changes her route, not her plan to ride. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Every product needs a graceful mode when the network fails. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+## Section 4: Work
+
+Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Feedback is kind, specific, and relentless about hierarchy. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Rain changes her route, not her plan to ride. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Every product needs a graceful mode when the network fails. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+## Section 5: Craft
+
+She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Feedback is kind, specific, and relentless about hierarchy. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Rain changes her route, not her plan to ride. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Every product needs a graceful mode when the network fails. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+## Section 6: Home
+
+She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Feedback is kind, specific, and relentless about hierarchy. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Rain changes her route, not her plan to ride. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Every product needs a graceful mode when the network fails. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+## Section 7: Family
+
+Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Feedback is kind, specific, and relentless about hierarchy. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Rain changes her route, not her plan to ride. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Every product needs a graceful mode when the network fails. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+## Section 8: Learning
+
+She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Feedback is kind, specific, and relentless about hierarchy. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Rain changes her route, not her plan to ride. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Every product needs a graceful mode when the network fails. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+## Section 9: Hobbies
+
+She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Feedback is kind, specific, and relentless about hierarchy. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Rain changes her route, not her plan to ride. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Every product needs a graceful mode when the network fails. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+## Section 10: Travel
+
+Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Feedback is kind, specific, and relentless about hierarchy. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Rain changes her route, not her plan to ride. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Every product needs a graceful mode when the network fails. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+## Section 11: Origins
+
+Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Feedback is kind, specific, and relentless about hierarchy. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Rain changes her route, not her plan to ride. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Every product needs a graceful mode when the network fails. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+## Section 12: Neighborhoods
+
+She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Feedback is kind, specific, and relentless about hierarchy. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Rain changes her route, not her plan to ride. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Every product needs a graceful mode when the network fails. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+## Section 13: School
+
+Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Feedback is kind, specific, and relentless about hierarchy. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Rain changes her route, not her plan to ride. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Every product needs a graceful mode when the network fails. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+## Section 14: Work
+
+Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Feedback is kind, specific, and relentless about hierarchy. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Rain changes her route, not her plan to ride. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Every product needs a graceful mode when the network fails. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+## Section 15: Craft
+
+She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Feedback is kind, specific, and relentless about hierarchy. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Rain changes her route, not her plan to ride. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Every product needs a graceful mode when the network fails. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+## Section 16: Home
+
+She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Feedback is kind, specific, and relentless about hierarchy. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Rain changes her route, not her plan to ride. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Every product needs a graceful mode when the network fails. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+## Section 17: Family
+
+Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Feedback is kind, specific, and relentless about hierarchy. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Rain changes her route, not her plan to ride. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Every product needs a graceful mode when the network fails. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+## Section 18: Learning
+
+She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Feedback is kind, specific, and relentless about hierarchy. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Rain changes her route, not her plan to ride. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Every product needs a graceful mode when the network fails. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+## Section 19: Hobbies
+
+She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Feedback is kind, specific, and relentless about hierarchy. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Rain changes her route, not her plan to ride. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Every product needs a graceful mode when the network fails. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+## Section 20: Travel
+
+Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Feedback is kind, specific, and relentless about hierarchy. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Rain changes her route, not her plan to ride. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Every product needs a graceful mode when the network fails. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+## Section 21: Origins
+
+Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Feedback is kind, specific, and relentless about hierarchy. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Rain changes her route, not her plan to ride. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Every product needs a graceful mode when the network fails. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+## Section 22: Neighborhoods
+
+She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Feedback is kind, specific, and relentless about hierarchy. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Rain changes her route, not her plan to ride. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Every product needs a graceful mode when the network fails. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+## Section 23: School
+
+Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Feedback is kind, specific, and relentless about hierarchy. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Rain changes her route, not her plan to ride. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Every product needs a graceful mode when the network fails. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+## Section 24: Work
+
+Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Feedback is kind, specific, and relentless about hierarchy. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Rain changes her route, not her plan to ride. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Every product needs a graceful mode when the network fails. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+## Section 25: Craft
+
+She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Feedback is kind, specific, and relentless about hierarchy. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Rain changes her route, not her plan to ride. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Every product needs a graceful mode when the network fails. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+## Section 26: Home
+
+She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Feedback is kind, specific, and relentless about hierarchy. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Rain changes her route, not her plan to ride. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Every product needs a graceful mode when the network fails. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+## Section 27: Family
+
+Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Feedback is kind, specific, and relentless about hierarchy. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Rain changes her route, not her plan to ride. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Every product needs a graceful mode when the network fails. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+## Section 28: Learning
+
+She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Feedback is kind, specific, and relentless about hierarchy. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Rain changes her route, not her plan to ride. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Every product needs a graceful mode when the network fails. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+## Section 29: Hobbies
+
+She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Feedback is kind, specific, and relentless about hierarchy. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Rain changes her route, not her plan to ride. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Every product needs a graceful mode when the network fails. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+## Section 30: Travel
+
+Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Feedback is kind, specific, and relentless about hierarchy. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Rain changes her route, not her plan to ride. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Every product needs a graceful mode when the network fails. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+## Section 31: Origins
+
+Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Feedback is kind, specific, and relentless about hierarchy. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Rain changes her route, not her plan to ride. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Every product needs a graceful mode when the network fails. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+## Section 32: Neighborhoods
+
+She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Feedback is kind, specific, and relentless about hierarchy. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Rain changes her route, not her plan to ride. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Every product needs a graceful mode when the network fails. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+## Section 33: School
+
+Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Feedback is kind, specific, and relentless about hierarchy. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Rain changes her route, not her plan to ride. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Every product needs a graceful mode when the network fails. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+## Section 34: Work
+
+Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Feedback is kind, specific, and relentless about hierarchy. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Rain changes her route, not her plan to ride. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Every product needs a graceful mode when the network fails. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+## Section 35: Craft
+
+She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Feedback is kind, specific, and relentless about hierarchy. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Rain changes her route, not her plan to ride. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Every product needs a graceful mode when the network fails. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+## Section 36: Home
+
+She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Feedback is kind, specific, and relentless about hierarchy. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Rain changes her route, not her plan to ride. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Every product needs a graceful mode when the network fails. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+## Section 37: Family
+
+Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Feedback is kind, specific, and relentless about hierarchy. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Rain changes her route, not her plan to ride. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Every product needs a graceful mode when the network fails. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+## Section 38: Learning
+
+She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Feedback is kind, specific, and relentless about hierarchy. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Rain changes her route, not her plan to ride. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Every product needs a graceful mode when the network fails. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+## Section 39: Hobbies
+
+She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Feedback is kind, specific, and relentless about hierarchy. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Rain changes her route, not her plan to ride. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Every product needs a graceful mode when the network fails. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+## Section 40: Travel
+
+Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Feedback is kind, specific, and relentless about hierarchy. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Rain changes her route, not her plan to ride. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Every product needs a graceful mode when the network fails. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+## Section 41: Origins
+
+Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Feedback is kind, specific, and relentless about hierarchy. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Rain changes her route, not her plan to ride. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Every product needs a graceful mode when the network fails. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+## Section 42: Neighborhoods
+
+She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Feedback is kind, specific, and relentless about hierarchy. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Rain changes her route, not her plan to ride. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Every product needs a graceful mode when the network fails. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+## Section 43: School
+
+Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Feedback is kind, specific, and relentless about hierarchy. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Rain changes her route, not her plan to ride. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Every product needs a graceful mode when the network fails. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+## Section 44: Work
+
+Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Feedback is kind, specific, and relentless about hierarchy. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Rain changes her route, not her plan to ride. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Every product needs a graceful mode when the network fails. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+## Section 45: Craft
+
+She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Feedback is kind, specific, and relentless about hierarchy. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Rain changes her route, not her plan to ride. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Every product needs a graceful mode when the network fails. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+## Section 46: Home
+
+She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Feedback is kind, specific, and relentless about hierarchy. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Rain changes her route, not her plan to ride. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Every product needs a graceful mode when the network fails. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+## Section 47: Family
+
+Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Feedback is kind, specific, and relentless about hierarchy. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Rain changes her route, not her plan to ride. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Every product needs a graceful mode when the network fails. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+## Section 48: Learning
+
+She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Feedback is kind, specific, and relentless about hierarchy. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Rain changes her route, not her plan to ride. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Every product needs a graceful mode when the network fails. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+## Section 49: Hobbies
+
+She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Feedback is kind, specific, and relentless about hierarchy. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Rain changes her route, not her plan to ride. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Every product needs a graceful mode when the network fails. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+## Section 50: Travel
+
+Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Feedback is kind, specific, and relentless about hierarchy. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Rain changes her route, not her plan to ride. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Every product needs a graceful mode when the network fails. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+## Section 51: Origins
+
+Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Feedback is kind, specific, and relentless about hierarchy. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Rain changes her route, not her plan to ride. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+Every product needs a graceful mode when the network fails. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In origins, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara Ellison was born on November 2, 1988, in Portland, Oregon. She spent most of her childhood between school, the public library, and long rainy walks with her parents. Friends call her Mara; her grandmother still says Marabelle. She prefers coffee without sugar and keeps a sketch notebook in every bag.
+
+## Section 52: Neighborhoods
+
+She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Feedback is kind, specific, and relentless about hierarchy. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Rain changes her route, not her plan to ride. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+Every product needs a graceful mode when the network fails. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In neighborhoods, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She moved through Hawthorne bungalows, river duplexes, and quiet streets that smelled like wet cedar after rain. Bike tires on wet pavement are her clearest childhood soundtrack. Farmers markets, late libraries, and warped notebooks taught her that places have interfaces.
+
+## Section 53: School
+
+Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Feedback is kind, specific, and relentless about hierarchy. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Rain changes her route, not her plan to ride. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+Every product needs a graceful mode when the network fails. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In school, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Yearbook layout, geometry grids, and art class made her calm. College mixed design with environmental systems. Internships taught her that stakeholder meetings are information architecture with coffee.
+
+## Section 54: Work
+
+Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Feedback is kind, specific, and relentless about hierarchy. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Rain changes her route, not her plan to ride. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+Every product needs a graceful mode when the network fails. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In work, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Mara is a product designer at a climate-tech startup tracking building energy use. She leads three designers, lives in Figma and customer interviews, and shipped the first customer dashboard after eighteen months. Mornings are deep work; Fridays end early for a bike ride.
+
+## Section 55: Craft
+
+She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Feedback is kind, specific, and relentless about hierarchy. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Rain changes her route, not her plan to ride. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+Every product needs a graceful mode when the network fails. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In craft, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She prototypes early, deletes often, and writes actionable critiques. Dashboards must help operators at 6 a.m., not flatter executives. Naming layers is product thinking leaking into the file.
+
+## Section 56: Home
+
+She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Feedback is kind, specific, and relentless about hierarchy. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Rain changes her route, not her plan to ride. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+Every product needs a graceful mode when the network fails. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In home, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rents a loft near the river, organized around light: drawing table, herbs in the kitchen, a leaning wall of books. Guests get tea first. The guest book holds sketches instead of signatures.
+
+## Section 57: Family
+
+Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Feedback is kind, specific, and relentless about hierarchy. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Rain changes her route, not her plan to ride. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+Every product needs a graceful mode when the network fails. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In family, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Parents in Oregon call on Sundays. A younger brother in logistics teases her about color palettes. Holidays are food-forward; she arrives with pie and a curated stack of printed photos.
+
+## Section 58: Learning
+
+She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Feedback is kind, specific, and relentless about hierarchy. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Rain changes her route, not her plan to ride. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+Every product needs a graceful mode when the network fails. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In learning, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She takes energy-modeling courses to share vocabulary with engineers, mentors at a meetup, and warns students that a beautiful wrong chart is still wrong.
+
+## Section 59: Hobbies
+
+She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Feedback is kind, specific, and relentless about hierarchy. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Rain changes her route, not her plan to ride. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+Every product needs a graceful mode when the network fails. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In hobbies, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. She rides for texture, sketches doorways, cooks seasonal food, and volunteers at a community tool library redesigning checkout sheets so drill bits stop disappearing.
+
+## Section 60: Travel
+
+Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+She tracks materials, contrast, and empty states with the same seriousness other people reserve for launch dates. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Feedback is kind, specific, and relentless about hierarchy. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Rain changes her route, not her plan to ride. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+Every product needs a graceful mode when the network fails. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
+
+She closes loops in weekly review and archives abandoned prototypes with captions. In travel, Mara treats continuity as a constraint: she revisits earlier decisions, checks whether operators still recognize the workflow, and writes down what changed. Regional Cascades weekends, ferries, and conferences where she presents then walks the host city with a pocket sketchbook. She collects transit maps and plans one unstructured day in every new city.
