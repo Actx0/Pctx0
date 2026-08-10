@@ -1,6 +1,16 @@
 # Copyright 2026 Actx0. All rights reserved.
 # License can be found in the LICENSE file.
 
+from pctx0.chunk import (
+    DEFAULT_CHUNK_OVERLAP,
+    DEFAULT_CHUNK_SIZE,
+    DEFAULT_CHUNKING_STRATEGY,
+    DEFAULT_TOKENIZER,
+    TextChunk,
+    chunk,
+    chunk_file,
+    chunk_text,
+)
 from pctx0.client import Pctx0Client
 from pctx0.resource import (
     AccessKeyInfo,
@@ -57,6 +67,10 @@ __all__ = [
     "Agent",
     "AgentList",
     "Agents",
+    "DEFAULT_CHUNKING_STRATEGY",
+    "DEFAULT_CHUNK_OVERLAP",
+    "DEFAULT_CHUNK_SIZE",
+    "DEFAULT_TOKENIZER",
     "Document",
     "DocumentList",
     "DocumentSize",
@@ -92,8 +106,12 @@ __all__ = [
     "Session",
     "SessionList",
     "Sessions",
+    "TextChunk",
     "build_memory_batch_payload",
     "build_message_batch_payload",
+    "chunk",
+    "chunk_file",
+    "chunk_text",
     "stringify_meta",
     "agent",
     "document",

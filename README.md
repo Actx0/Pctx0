@@ -8,6 +8,12 @@ Python Client for the Actx0 Platform.
 uv add pctx0
 ```
 
+For document chunking helpers:
+
+```bash
+uv add "pctx0[chunk]"
+```
+
 #### Usage
 
 ```python
@@ -33,6 +39,24 @@ client = Pctx0Client(
 client.health()
 client.knowledge.list()
 client.close()
+```
+
+#### Chunking
+
+Requires `pctx0[chunk]`. Split long docs before upload with Actx0 defaults
+(`recursive`, size `2000`, overlap `400`):
+
+```python
+from pctx0 import chunk, chunk_text
+
+chunks = chunk_text(long_document)
+# or: chunks = chunk("notes.md")
+
+for part in chunks:
+    client.knowledge.upload(
+        file=part.as_file(filename=f"notes-{part.index:04d}.txt"),
+        title=f"Notes part {part.index + 1}",
+    )
 ```
 
 #### Development

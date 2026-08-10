@@ -13,12 +13,18 @@ dependencies = [
     "httpx>=0.28.1",
 ]
 
+[project.optional-dependencies]
+chunk = [
+    "chonkie>=1.7.0",
+]
+
 [build-system]
 requires = ["uv_build>=0.9.12,<0.10.0"]
 build-backend = "uv_build"
 
 [dependency-groups]
 dev = [
+    "chonkie>=1.7.0",
     "pytest>=9.1.1",
 ]
 
