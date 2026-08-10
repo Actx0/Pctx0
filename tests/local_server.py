@@ -30,6 +30,7 @@ def _default_agent(agent_id: str = DEFAULT_AGENT_ID) -> dict[str, Any]:
         "handle": "a8k2m9x1",
         "description": "Handles customer questions",
         "status": "active",
+        "configs": {"memoryPipeline": False},
         "createdAt": _TIMESTAMP,
         "updatedAt": _TIMESTAMP,
     }
@@ -126,7 +127,12 @@ class _Handler(BaseHTTPRequestHandler):
         return result
 
     def _agent_object(
-        self, agent_id: str, name: str, description: str
+        self,
+        agent_id: str,
+        name: str,
+        description: str,
+        *,
+        memory_pipeline: bool = False,
     ) -> dict[str, Any]:
         return {
             "id": agent_id,
@@ -138,6 +144,7 @@ class _Handler(BaseHTTPRequestHandler):
             "handle": uuid.uuid4().hex[:8],
             "description": description,
             "status": "active",
+            "configs": {"memoryPipeline": memory_pipeline},
             "createdAt": _TIMESTAMP,
             "updatedAt": _TIMESTAMP,
         }
@@ -189,7 +196,14 @@ class _Handler(BaseHTTPRequestHandler):
                     return 403, {"errorMessage": "Write requires user API key."}
                 body = self._read_json()
                 agent_id = f"agt_{uuid.uuid4().hex[:8]}"
-                agent = self._agent_object(agent_id, body["name"], body["description"])
+                configs = body.get("configs") or {}
+                memory_pipeline = bool(configs.get("memoryPipeline", False))
+                agent = self._agent_object(
+                    agent_id,
+                    body["name"],
+                    body["description"],
+                    memory_pipeline=memory_pipeline,
+                )
                 self.agents[agent_id] = agent
                 return 201, agent
 
@@ -281,6 +295,11 @@ class _Handler(BaseHTTPRequestHandler):
                 body = self._read_json()
                 agent["name"] = body["name"]
                 agent["description"] = body["description"]
+                if "configs" in body:
+                    configs = body.get("configs") or {}
+                    agent["configs"] = {
+                        "memoryPipeline": bool(configs.get("memoryPipeline", False))
+                    }
                 agent["updatedAt"] = _TIMESTAMP
                 return 200, agent
             if self.command == "DELETE":

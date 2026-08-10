@@ -77,24 +77,45 @@ def test_agent_list_and_get(client: Pctx0Client) -> None:
     agents = client.agent.list()
     assert agents.total >= 1
     assert agents.agents[0].name == "Support bot"
+    assert agents.agents[0].configs.memory_pipeline is False
 
     agent = client.agent.get(DEFAULT_AGENT_ID)
     assert agent.id == DEFAULT_AGENT_ID
     assert agent.kind == "unmanaged"
+    assert agent.configs.memory_pipeline is False
 
 
 def test_agent_create_update_delete(client: Pctx0Client) -> None:
     created = client.agent.create(name="Bot", description="Test bot")
     assert created.name == "Bot"
+    assert created.configs.memory_pipeline is False
+
+    with_pipeline = client.agent.create(
+        name="Pipeline bot",
+        description="Uses memory pipeline",
+        memory_pipeline=True,
+    )
+    assert with_pipeline.configs.memory_pipeline is True
 
     updated = client.agent.update(
         created.id,
         name="Renamed bot",
         description="Updated description",
+        memory_pipeline=True,
     )
     assert updated.name == "Renamed bot"
+    assert updated.configs.memory_pipeline is True
+
+    disabled = client.agent.update(
+        created.id,
+        name="Renamed bot",
+        description="Updated description",
+        memory_pipeline=False,
+    )
+    assert disabled.configs.memory_pipeline is False
 
     assert client.agent.delete(created.id) is None
+    assert client.agent.delete(with_pipeline.id) is None
 
 
 def test_document_list_search_upload(client: Pctx0Client, tmp_path) -> None:

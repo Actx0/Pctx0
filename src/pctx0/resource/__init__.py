@@ -12,6 +12,7 @@ from pctx0.types import (
     AccessKeyInfo,
     AccessKeyPrincipal,
     Agent,
+    AgentConfigs,
     AgentList,
     Document,
     DocumentList,
@@ -45,6 +46,7 @@ from pctx0.types import (
 
 __all__ = [
     "Agent",
+    "AgentConfigs",
     "AgentList",
     "Agents",
     "AccessKeyInfo",

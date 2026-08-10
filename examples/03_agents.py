@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Create, list, get, update, and delete an agent.
 
-uv run python examples/04_agents.py
+uv run python examples/03_agents.py
 """
 
 from __future__ import annotations
@@ -26,16 +26,22 @@ def main() -> None:
     created = client.agent.create(
         name="Mara assistant",
         description="Answers questions about Mara Ellison from the docs knowledge base.",
+        # Omit memory_pipeline to leave configs.memoryPipeline off (API default).
+        # Pass memory_pipeline=True on paid plans to enable the nested config.
     )
     print("Created")
     print("=" * 40)
     pp(asdict(created), sort_dicts=False, width=100)
+    print(f"memory_pipeline={created.configs.memory_pipeline}")
 
     listed = client.agent.list()
     print(f"\nListed (total={listed.total})")
     print("=" * 40)
     for agent in listed.agents:
-        print(f"  {agent.id}  {agent.name}  status={agent.status}")
+        print(
+            f"  {agent.id}  {agent.name}  status={agent.status}  "
+            f"memory_pipeline={agent.configs.memory_pipeline}"
+        )
 
     fetched = client.agent.get(created.id)
     print("\nFetched")
@@ -46,6 +52,7 @@ def main() -> None:
         created.id,
         name="Mara assistant v2",
         description="Updated description for the Mara docs agent.",
+        memory_pipeline=False,
     )
     print("\nUpdated")
     print("=" * 40)

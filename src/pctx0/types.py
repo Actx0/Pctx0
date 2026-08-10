@@ -32,6 +32,17 @@ class MemoryInput(TypedDict, total=False):
 
 
 @dataclass(frozen=True, slots=True)
+class AgentConfigs:
+    memory_pipeline: bool = False
+
+    @classmethod
+    def from_api(cls, data: dict[str, Any] | None) -> AgentConfigs:
+        if not data:
+            return cls()
+        return cls(memory_pipeline=bool(data.get("memoryPipeline", False)))
+
+
+@dataclass(frozen=True, slots=True)
 class Agent:
     id: str
     workspace_id: str
@@ -42,6 +53,7 @@ class Agent:
     handle: str
     description: str
     status: str
+    configs: AgentConfigs
     created_at: str
     updated_at: str
 
@@ -51,12 +63,13 @@ class Agent:
             id=data["id"],
             workspace_id=data["workspaceId"],
             name=data["name"],
-            kind=data["kind"],
+            kind=data.get("kind", "unmanaged"),
             prompt_id=data.get("promptId"),
             kb_labels=data.get("kbLabels", {}),
             handle=data["handle"],
             description=data["description"],
-            status=data["status"],
+            status=data.get("status", "active"),
+            configs=AgentConfigs.from_api(data.get("configs")),
             created_at=data["createdAt"],
             updated_at=data["updatedAt"],
         )

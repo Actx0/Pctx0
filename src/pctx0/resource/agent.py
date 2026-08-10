@@ -3,9 +3,23 @@
 
 from __future__ import annotations
 
+from typing import Any
+
 from pctx0.resource.base import Resource
 from pctx0.types import Agent, AgentList
 from pctx0.utils import _DELETE, _GET, _POST, _PUT, build_query_params
+
+
+def _agent_write_body(
+    *,
+    name: str,
+    description: str,
+    memory_pipeline: bool | None = None,
+) -> dict[str, Any]:
+    body: dict[str, Any] = {"name": name, "description": description}
+    if memory_pipeline is not None:
+        body["configs"] = {"memoryPipeline": memory_pipeline}
+    return body
 
 
 class Agents(Resource):
@@ -39,11 +53,21 @@ class Agents(Resource):
         *,
         name: str,
         description: str,
+        memory_pipeline: bool | None = None,
     ) -> Agent:
+        """Create an agent.
+
+        Omit ``memory_pipeline`` to leave pipeline off (API default). Pass
+        ``True``/``False`` to set ``configs.memoryPipeline`` explicitly.
+        """
         data = self._request(
             _POST,
             self._workspace_path("agents"),
-            json={"name": name, "description": description},
+            json=_agent_write_body(
+                name=name,
+                description=description,
+                memory_pipeline=memory_pipeline,
+            ),
         )
         return Agent.from_api(data)
 
@@ -53,11 +77,21 @@ class Agents(Resource):
         *,
         name: str,
         description: str,
+        memory_pipeline: bool | None = None,
     ) -> Agent:
+        """Update an agent.
+
+        Pass ``memory_pipeline`` to set ``configs.memoryPipeline``. Omit it to
+        leave configs out of the request body.
+        """
         data = self._request(
             _PUT,
             self._workspace_path("agents", agent_id),
-            json={"name": name, "description": description},
+            json=_agent_write_body(
+                name=name,
+                description=description,
+                memory_pipeline=memory_pipeline,
+            ),
         )
         return Agent.from_api(data)
 
