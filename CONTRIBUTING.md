@@ -23,7 +23,7 @@ Tests start a local mock API server automatically. To run against a local Actx0 
 PCTX0_BASE_URL=http://127.0.0.1:8000 uv run pytest
 ```
 
-Examples default to the production API at [https://actx0.com](https://actx0.com).
+Examples default to the production API at [https://app.actx0.com](https://app.actx0.com).
 
 ## Pull requests
 

@@ -16,7 +16,7 @@ class _Client:
     def __init__(
         self,
         *,
-        base_url: str = "https://actx0.com",
+        base_url: str = "https://app.actx0.com",
         timeout: float = 30.0,
         access_key: str | None = None,
         workspace_id: str | None = None,
@@ -86,7 +86,7 @@ class Pctx0Client(_Client):
     def __init__(
         self,
         *,
-        base_url: str = "https://actx0.com",
+        base_url: str = "https://app.actx0.com",
         timeout: float = 30.0,
         access_key: str | None = None,
         workspace_id: str | None = None,

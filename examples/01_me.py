@@ -13,7 +13,7 @@ from pctx0 import Pctx0Client
 
 ACCESS_KEY = "227fc70d-151c-4a7f-85e2-20ef147cbcc1"
 WORKSPACE_ID = "adae803a-5b20-41c7-bd9b-304792bccabe"
-BASE_URL = "https://actx0.com"
+BASE_URL = "https://app.actx0.com"
 
 
 def main() -> None:
