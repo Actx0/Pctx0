@@ -632,7 +632,7 @@ class _Handler(BaseHTTPRequestHandler):
         path = parsed.path
         query = parse_qs(parsed.query)
 
-        if self.command == "GET" and path == "/api/v1/_health":
+        if self.command == "GET" and path == "/api/v1/public/_health":
             return 200, {"status": "ok"}
 
         if self.command == "GET" and path == "/api/v1/me":
@@ -677,7 +677,7 @@ class _Handler(BaseHTTPRequestHandler):
             if access_key != DEFAULT_WORKSPACE_ACCESS_KEY:
                 return 401, {"errorMessage": "Invalid access key."}
             return 200, {
-                "principalType": "access_key",
+                "principalType": "ACCESS_KEY",
                 "accessKey": {
                     "id": "wkey_ghi789",
                     "workspaceId": DEFAULT_WORKSPACE_ID,

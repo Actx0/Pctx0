@@ -118,4 +118,4 @@ class Pctx0Client(_Client):
         self.session = self._attach(Sessions)
 
     def health(self) -> dict[str, Any]:
-        return self._request(_GET, "/api/v1/_health")
+        return self._request(_GET, "/api/v1/public/_health")

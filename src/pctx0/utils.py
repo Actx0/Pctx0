@@ -86,10 +86,11 @@ def encode_update_body(
 
 
 def parse_me_principal(data: dict[str, Any]) -> AccessKeyPrincipal:
-    principal_type = data["principalType"]
+    # API returns ACCESS_KEY (OpenAPI); accept case-insensitive values.
+    principal_type = str(data["principalType"]).casefold()
     if principal_type == "access_key":
         return AccessKeyPrincipal.from_api(data)
-    raise ValueError(f"unknown principalType: {principal_type}")
+    raise ValueError(f"unknown principalType: {data['principalType']}")
 
 
 def prepare_file(file: FileInput) -> tuple[str, bytes, str]:
